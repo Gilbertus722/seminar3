@@ -9,7 +9,7 @@ void CheckingNumber(string number){
   if (number[0]==number[4] || number[1]==number[3]){
     Console.WriteLine($"Число: {number} - палиндром.");
   }
-  else Console.WriteLine($ "Число: {number} - Не палиндром.");
+  else Console.WriteLine($"Число: {number} - Не палиндром.");
 }
 
 if (number!.Length == 5){
