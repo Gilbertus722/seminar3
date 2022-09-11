@@ -1,0 +1,5 @@
+G:\Учеба\Програм\seminar3\Задача 21\obj\Debug\net6.0\Задача 21.csproj.AssemblyReference.cache
+G:\Учеба\Програм\seminar3\Задача 21\obj\Debug\net6.0\Задача 21.GeneratedMSBuildEditorConfig.editorconfig
+G:\Учеба\Програм\seminar3\Задача 21\obj\Debug\net6.0\Задача 21.AssemblyInfoInputs.cache
+G:\Учеба\Програм\seminar3\Задача 21\obj\Debug\net6.0\Задача 21.AssemblyInfo.cs
+G:\Учеба\Програм\seminar3\Задача 21\obj\Debug\net6.0\Задача 21.csproj.CoreCompileInputs.cache

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Учеба\\Програм\\seminar3\\Задача 19\\Задача 21\\Задача 21.csproj": {}
+    "G:\\Учеба\\Програм\\seminar3\\Задача 21\\Задача 21.csproj": {}
   },
   "projects": {
-    "G:\\Учеба\\Програм\\seminar3\\Задача 19\\Задача 21\\Задача 21.csproj": {
+    "G:\\Учеба\\Програм\\seminar3\\Задача 21\\Задача 21.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Учеба\\Програм\\seminar3\\Задача 19\\Задача 21\\Задача 21.csproj",
+        "projectUniqueName": "G:\\Учеба\\Програм\\seminar3\\Задача 21\\Задача 21.csproj",
         "projectName": "Задача 21",
-        "projectPath": "G:\\Учеба\\Програм\\seminar3\\Задача 19\\Задача 21\\Задача 21.csproj",
+        "projectPath": "G:\\Учеба\\Програм\\seminar3\\Задача 21\\Задача 21.csproj",
         "packagesPath": "C:\\Users\\Виталий\\.nuget\\packages\\",
-        "outputPath": "G:\\Учеба\\Програм\\seminar3\\Задача 19\\Задача 21\\obj\\",
+        "outputPath": "G:\\Учеба\\Програм\\seminar3\\Задача 21\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Виталий\\AppData\\Roaming\\NuGet\\NuGet.Config"
