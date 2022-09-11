@@ -1,0 +1,15 @@
+G:\Учеба\Програм\seminar3\Задача 23\bin\Debug\net6.0\Задача 23.exe
+G:\Учеба\Програм\seminar3\Задача 23\bin\Debug\net6.0\Задача 23.deps.json
+G:\Учеба\Програм\seminar3\Задача 23\bin\Debug\net6.0\Задача 23.runtimeconfig.json
+G:\Учеба\Програм\seminar3\Задача 23\bin\Debug\net6.0\Задача 23.dll
+G:\Учеба\Програм\seminar3\Задача 23\bin\Debug\net6.0\Задача 23.pdb
+G:\Учеба\Програм\seminar3\Задача 23\obj\Debug\net6.0\Задача 23.csproj.AssemblyReference.cache
+G:\Учеба\Програм\seminar3\Задача 23\obj\Debug\net6.0\Задача 23.GeneratedMSBuildEditorConfig.editorconfig
+G:\Учеба\Програм\seminar3\Задача 23\obj\Debug\net6.0\Задача 23.AssemblyInfoInputs.cache
+G:\Учеба\Програм\seminar3\Задача 23\obj\Debug\net6.0\Задача 23.AssemblyInfo.cs
+G:\Учеба\Програм\seminar3\Задача 23\obj\Debug\net6.0\Задача 23.csproj.CoreCompileInputs.cache
+G:\Учеба\Програм\seminar3\Задача 23\obj\Debug\net6.0\Задача 23.dll
+G:\Учеба\Програм\seminar3\Задача 23\obj\Debug\net6.0\refint\Задача 23.dll
+G:\Учеба\Програм\seminar3\Задача 23\obj\Debug\net6.0\Задача 23.pdb
+G:\Учеба\Програм\seminar3\Задача 23\obj\Debug\net6.0\Задача 23.genruntimeconfig.cache
+G:\Учеба\Програм\seminar3\Задача 23\obj\Debug\net6.0\ref\Задача 23.dll
