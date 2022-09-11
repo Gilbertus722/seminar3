@@ -2,3 +2,6 @@
 // 3 -> 1, 8, 27
 // 5 -> 1, 8, 27, 64, 125
 
+Console.Write("Число: ");
+int cube = Convert.ToInt32(Console.ReadLine());
+
